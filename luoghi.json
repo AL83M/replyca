@@ -27,45 +27,4 @@
     "regione": "",
     "foto360": "pontedeininfi360.JPG"
   },
-  {
-    "nome": "Torre della Strega",
-    "localita": "Maranello",
-    "provincia": "Modena",
-    "lat": 44.505932,
-    "lon": 10.84439,
-    "categoria": "Rudere",
-    "anno_scansione": 2026,
-    "piattaforma": "sketchfab",
-    "modello": "948afe9a5740461d86efec52ca8db1f0",
-    "descrizione": "Fotogrammetria 3D - Discovery Nebrodi",
-    "foto": ""
-  },
-  {
-    "nome": "Pizzo San Nicola",
-    "tipo": "panorama360",
-    "regione": "Sicilia",
-    "provincia": "Messina",
-    "localita": "Longi",
-    "lat": 38.019103,
-    "lon": 14.742313,
-    "categoria": "Paesaggio",
-    "anno_scansione": 2026,
-    "foto360": "https://al83m.github.io/discovery-nebrodi-map/dji_fly_20240316_105652_370_1710590460998_pano_optimized.JPG?utm_source=chatgpt.com",
-    "descrizione": "Archivio digitale - replYca"
-  },
-  {
-    "nome": "P",
-    "tipo": "fotogrammetria",
-    "regione": "",
-    "provincia": "",
-    "localita": "",
-    "lat": 38.15867659914294,
-    "lon": 14.743194580078113,
-    "categoria": "Altro",
-    "anno_scansione": 2026,
-    "descrizione": "Archivio digitale - replYca",
-    "piattaforma": "sketchfab",
-    "modello": "ff8814b35f4249d39849245510444054",
-    "foto": ""
-  }
 ]
