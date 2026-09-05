@@ -5,12 +5,13 @@
     "provincia": "Messina",
     "lat": 37.984268,
     "lon": 14.581352,
-    "categoria": "Ponte storico",
+    "categoria": "Ponte",
     "anno_scansione": 2026,
     "piattaforma": "sketchfab",
     "modello": "f996b426f83c4e30800f1a3b4bad580c",
     "descrizione": "Fotogrammetria 3D - Discovery Nebrodi",
-    "foto360": "pontedeininfi360.JPG"
+    "foto360": "pontedeininfi360.JPG",
+    "regione": ""
   },
   {
     "nome": "Ponte Nicoletta",
